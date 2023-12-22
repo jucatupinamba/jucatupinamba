@@ -1,6 +1,6 @@
 <h2 align="center">Juarez Martins</h2>
 
-<p>Formado na PUC, inciei os estudos em programação ao final de 2021.<br>
+<p style="text-align: justify;">Formado na PUC, inciei os estudos em programação ao final de 2021.<br>
 Atualmente trabalho com WordPress buscando soluções em Front End enquanto continuo estudando Java Web.<br>
 
 I'm a Java student since January of 2022 and I actually study English for work, for life.
