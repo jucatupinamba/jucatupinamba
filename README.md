@@ -1,7 +1,13 @@
 <h2 align="center">Juarez Martins</h2>
 
 <p>Formado na PUC, inciei os estudos em programação ao final de 2021.<br>
-Atualmente trabalho com WordPress buscando soluções em Front End enquanto continuo estudando Java Web.</p>
+Atualmente trabalho com WordPress buscando soluções em Front End enquanto continuo estudando Java Web.<br>
+
+I'm a Java student since January of 2023 and I actually study English for work, for life.
+I'm working with WordPress and use Front End soluctions(HTML/CSS) while studying Java.
+My conversation in english is simple and my listen is slow but I can conversation with <br>
+other persons.
+</p>
 
 ## Conecte comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/juarez-martins-de-oliveira-junior/) 
